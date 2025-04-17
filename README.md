@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Faceless-Dolulu
-- 👀 I’m interested in metal music, sci-fi movies, computers, and very recently into programming in javascript.
+- 👀 I’m interested in metal music, sci-fi movies, computers, and very recently into programming in TypeScript.
 - 🌱 I’m currently learning how to program a Discord bot using discord.js.
 - 📫 How to reach me
   - Discord: @dolus.
